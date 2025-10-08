@@ -14,4 +14,6 @@ print(my_string[letra])"""
 #print(min(my_string))
 #print(max(my_string))
 
-print(my_string.count("C"))
+#print(my_string.count("C"))
+
+#my_string.
