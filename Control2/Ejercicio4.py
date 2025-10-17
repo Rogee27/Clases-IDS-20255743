@@ -1,0 +1,7 @@
+n1 = float(input())
+n2 = float(input())
+n3 = float(input())
+n4 = float(input())
+n5 = float(input())
+promedio = ((n1*0.15)+(n2*0.4)+(n3*0.25)+(n4*0.20)+(n5*60.05))
+print(f"La nota final es: {promedio:.2f}")

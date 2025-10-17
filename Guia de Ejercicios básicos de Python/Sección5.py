@@ -15,8 +15,8 @@ print(f"La primera letra es: {palabra[0]} y su última es: {palabra[-1:]}")"""
 """codigo = "ABC1234XYZ"
 print(codigo[3:7])"""""
 
-nombre = "Juan Pérez"
-print(nombre[5:10])
+"""nombre = "Juan Pérez"
+print(nombre[5:10])"""
 
 
 

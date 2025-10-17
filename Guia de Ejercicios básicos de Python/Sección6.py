@@ -8,6 +8,6 @@ print(palabra*5)"""
 """texto = "banana"
 print(texto.count("a"))"""
 
-mensaje = "El Salvador es un gran país"
-print(mensaje.index("gran"))
+"""mensaje = "El Salvador es un gran país"
+print(mensaje.index("gran"))"""
 

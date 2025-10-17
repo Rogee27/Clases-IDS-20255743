@@ -8,7 +8,7 @@ print(f"El costo total es de: ${(Enero*1.25) + (Febreo*1.38) + (Marzo*1.14)}")""
 
 #2
 
-"""Dias = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes"]
+Dias = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes"]
 
 Cantidades_lunes = int(input())
 Dias[0] = Cantidades_lunes
@@ -25,7 +25,7 @@ Dias[3] = Cantidades_jueves
 Cantidades_viernes = int(input())
 Dias[4] = Cantidades_viernes
 
-print(Dias)"""
+print(Dias)
 
 #3
 """Frutas_favoritas = ["uno", "dos", "tres"]
@@ -66,13 +66,20 @@ print(f"{nombre.lower()[0]}{apellido.lower()}@ISND.com")"""
 
 #6
 
-salario = input("Ingrese su salario: ")
+"""salario = input("Ingrese su salario: ")
 
 print(salario[0]=="$")
-print(salario.count("$")==1)
+print(salario.count("$")==1)"""
+
+#7
+
+"""palabra = "ksjdfkldsjfklfj"
+print(palabra[::3])"""
 
 
 
+
+    
 
 
 
