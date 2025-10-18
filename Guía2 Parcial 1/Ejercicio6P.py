@@ -1,0 +1,12 @@
+p1 = int(input())
+p2 = int(input())
+p3 = int(input())
+p4 = int(input())
+p5 = int(input())
+p6 = float(input())
+p7 = float(input())
+p8 = float(input())
+p9 = float(input())
+p10 = float(input())
+
+print(f"{((p1*p6)+(p2*p7)+(p3*p8)+(p4*p9)+(p5*p10)):.0f}")

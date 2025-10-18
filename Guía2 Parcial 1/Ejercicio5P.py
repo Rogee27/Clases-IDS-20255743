@@ -1,0 +1,18 @@
+dato1 = float(input())
+dato2 = float(input())
+dato3 = float(input())
+dato4 = float(input())
+dato5 = float(input())
+dato6 = float(input())
+
+numeros = (dato1, dato2, dato3, dato4, dato5, dato6)
+nmax = max(numeros)
+nmin = min(numeros)
+df = nmax - nmin 
+suma = sum(numeros)
+prom = suma/len(numeros)
+print(f"Maximo: {nmax:.2f}")
+print(f"Minimo: {nmin:.2f}")
+print(f"Diferencia: {df:.2f}")
+print(f"Suma: {suma:.2f}")
+print(f"Promedio: {prom:.2f}")
