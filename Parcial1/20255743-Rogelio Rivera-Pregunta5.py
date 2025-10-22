@@ -1,0 +1,5 @@
+palabra = input()
+letra = input()
+min = palabra.lower()
+min2 = letra.lower ()
+print(min2 in min)

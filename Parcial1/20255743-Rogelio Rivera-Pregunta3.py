@@ -1,0 +1,5 @@
+p1 = input()
+p2 = input()
+min = p1[-1].lower()
+min2 = p2.lower()
+print(min==min2)
