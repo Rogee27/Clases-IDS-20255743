@@ -10,4 +10,4 @@ promedio = (c1 + c2 + c3 + c4 + c5 + c6) / 6
 if promedio > 9.5:
     print("Gana Premio :)")
 else:
-    print("Pierde Premio :(")
+    print("No Gana Premio :(")

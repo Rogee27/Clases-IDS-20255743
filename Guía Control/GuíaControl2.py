@@ -8,7 +8,7 @@ print(f"El costo total es de: ${(Enero*1.25) + (Febreo*1.38) + (Marzo*1.14)}")""
 
 #2
 
-Dias = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes"]
+"""Dias = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes"]
 
 Cantidades_lunes = int(input())
 Dias[0] = Cantidades_lunes
@@ -25,7 +25,7 @@ Dias[3] = Cantidades_jueves
 Cantidades_viernes = int(input())
 Dias[4] = Cantidades_viernes
 
-print(Dias)
+print(Dias)"""
 
 #3
 """Frutas_favoritas = ["uno", "dos", "tres"]
